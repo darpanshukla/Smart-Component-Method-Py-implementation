@@ -1,0 +1,31 @@
+
+	#----------------------------------------------------#
+	Unreliability            	=	6.9000e-02
+	Histories (Batches)      	=	1000(3)
+	Variance                 	=	1.8000e-05
+	Fractional Error(Unrel)  	=	6.1488e-02
+	Rt(N)*Fractional Error   	=	1.9444e+00
+	Figure of Merit          	=	2.8931e+07
+	Average time per history 	=	1.9203e-03
+	#----------------------------------------------------#
+	
+	#----------------------------------------------------#
+	Unreliability            	=	6.9667e-02
+	Histories (Batches)      	=	1000(3)
+	Variance                 	=	8.6667e-06
+	Fractional Error(Unrel)  	=	4.2257e-02
+	Rt(N)*Fractional Error   	=	1.3363e+00
+	Figure of Merit          	=	4.1234e+07
+	Average time per history 	=	2.7983e-03
+	#----------------------------------------------------#
+	
+	#----------------------------------------------------#
+	Unreliability            	=	7.1667e-02
+	Histories (Batches)      	=	1000(3)
+	Variance                 	=	8.8667e-05
+	Fractional Error(Unrel)  	=	1.3139e-01
+	Rt(N)*Fractional Error   	=	4.1549e+00
+	Figure of Merit          	=	5.7095e+06
+	Average time per history 	=	1.9753e-03
+	#----------------------------------------------------#
+	

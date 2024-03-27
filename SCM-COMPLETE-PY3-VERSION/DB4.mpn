@@ -1,0 +1,62 @@
+# Petri Net Parameters
+	name PN_DB4
+	units hrs
+	runMode schedule
+	visualise png
+	dot False
+# Run parameters
+	maxClock 100000000000000.0
+	maxSteps 100000.0
+	history False
+	analysisStep 1
+# Build Petri net
+Places
+	Component1P1 1
+	Component1P0
+	Component1PF
+	Component2P1 1
+	Component2P0
+	Component2PF
+	Component3P1 1
+	Component3P0
+	Component3PF
+	ResultP1 1
+	ResultP0
+	ResultPF
+# Places for Hierarchy 1
+	GCount1I0
+	SP1I0i0
+	SP1I0i1
+	SP1I0i2
+	knSYSGCount1I0
+	PCc1I0
+# Places for Hierarchy 2
+# Places for Hierarchy 3
+# Places for Hierarchy 4
+# Places for Hierarchy 5
+Transitions
+# Transitions for Hierarchy 0
+	TComponent110:rate:0.0001 IN Component1P1 OUT Component1P0 Component1PF 
+	TComponent101:rate:0.001 IN Component1P0 Component1PF OUT Component1P1 
+	TComponent210:rate:0.0001 IN Component2P1 OUT Component2P0 Component2PF 
+	TComponent201:rate:0.001 IN Component2P0 Component2PF OUT Component2P1 
+	TComponent310:rate:0.0001 IN Component3P1 OUT Component3P0 Component3PF 
+	TComponent301:rate:0.001 IN Component3P0 Component3PF OUT Component3P1 
+	TResult10:rate:0.0 IN ResultP1 OUT ResultP0 ResultPF 
+	TResult01:rate:0 IN ResultP0 ResultPF OUT ResultP1 
+# Transitions for Hierarchy 1
+	GCount1I0UPComponent1PF:instant IN Component1PF SP1I0i0:inh OUT Component1PF SP1I0i0 GCount1I0
+	GCount1I0DOWNComponent1PF:instant IN Component1PF:inh SP1I0i0 GCount1I0
+	GCount1I0UPComponent2PF:instant IN Component2PF SP1I0i1:inh OUT Component2PF SP1I0i1 GCount1I0
+	GCount1I0DOWNComponent2PF:instant IN Component2PF:inh SP1I0i1 GCount1I0
+	GCount1I0UPComponent3PF:instant IN Component3PF SP1I0i2:inh OUT Component3PF SP1I0i2 GCount1I0
+	GCount1I0DOWNComponent3PF:instant IN Component3PF:inh SP1I0i2 GCount1I0
+	TknUPknSYSGCount1I0:instant IN GCount1I0:3 knSYSGCount1I0:inh OUT GCount1I0:3 knSYSGCount1I0
+	TknDNknSYSGCount1I0:instant IN GCount1I0:inh:3 knSYSGCount1I0
+	TsysUP1PCc1I0:instant IN ResultPF PCc1I0:inh OUT ResultPF PCc1I0
+	TsysUP2PCc1I0:instant IN knSYSGCount1I0 PCc1I0:inh OUT knSYSGCount1I0 PCc1I0
+	TsysDOWN2PCc1I0:instant IN ResultPF:inh knSYSGCount1I0:inh PCc1I0
+# Transitions for Hierarchy 2
+# Transitions for Hierarchy 3
+# Transitions for Hierarchy 4
+# Transitions for Hierarchy 5

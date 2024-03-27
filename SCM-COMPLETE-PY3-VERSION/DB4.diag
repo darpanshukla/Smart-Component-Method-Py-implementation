@@ -1,0 +1,9 @@
+blockdiag {
+Component1;
+Component2;
+Component3;
+Result;
+Component1 -> Result;
+Component2 -> Result;
+Component3 -> Result;
+}

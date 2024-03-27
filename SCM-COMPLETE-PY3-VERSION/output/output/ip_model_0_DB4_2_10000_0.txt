@@ -1,0 +1,25 @@
+
+================++++++++++++++++++++++++++================
+	Simulation Results Started at....
+	time.struct_time(tm_year=2020, tm_mon=11, tm_mday=3, tm_hour=4, tm_min=54, tm_sec=20, tm_wday=1, tm_yday=308, tm_isdst=0)
+	
+ID	           Component	Rel.Model(Law)	fail_rate	repair_rate	 test_interval	 MTTR	 CCF	 CCF_ID	 Beta
+0	          Component1	    3 ( 0)	1.00e-04	1.00e-03	0.00e+00	0.00e+00	0	[]
+1	          Component2	    3 ( 0)	1.00e-04	1.00e-03	0.00e+00	0.00e+00	0	[]
+2	          Component3	    3 ( 0)	1.00e-04	1.00e-03	0.00e+00	0.00e+00	0	[]
+3	              Result	    3 ( 0)	0.00e+00	0.00e+00	0.00e+00	0.00e+00	0	[] 
+	Quantification model = 0
+	Mission time = 100000.000000
+	Acceleration = 0 (parameter=0.850000)
+================++++++++++++++++++++++++++================
+	Simulation Results Started at....
+	time.struct_time(tm_year=2020, tm_mon=11, tm_mday=3, tm_hour=4, tm_min=56, tm_sec=52, tm_wday=1, tm_yday=308, tm_isdst=0)
+	
+ID	           Component	Rel.Model(Law)	fail_rate	repair_rate	 test_interval	 MTTR	 CCF	 CCF_ID	 Beta
+0	          Component1	    3 ( 0)	1.00e-04	1.00e-03	0.00e+00	0.00e+00	0	[]
+1	          Component2	    3 ( 0)	1.00e-04	1.00e-03	0.00e+00	0.00e+00	0	[]
+2	          Component3	    3 ( 0)	1.00e-04	1.00e-03	0.00e+00	0.00e+00	0	[]
+3	              Result	    3 ( 0)	0.00e+00	0.00e+00	0.00e+00	0.00e+00	0	[] 
+	Quantification model = 0
+	Mission time = 100000.000000
+	Acceleration = 0 (parameter=0.850000)

@@ -1,0 +1,306 @@
+================================================================================
+1 simulations, total clock: 7.5445e+08 hrs (7.5445e+08 hrs per simulation)
+Simulation wall time: 264 seconds
+================================================================================
+
+Places:
+Thermo_CSAM1P1 1137 in, 1138 out, Time with tokens: 7.5434e+08 hrs 
+Thermo_CSAM1P0 1138 in, 1137 out, Time with tokens: 1.1112e+05 hrs 
+Thermo_CSAM1PF 2276 in, 2275 out, Time with tokens: 1.1112e+05 hrs 
+Thermo_CSAM2P1 1318 in, 1318 out, Time with tokens: 7.5432e+08 hrs 
+Thermo_CSAM2P0 1318 in, 1318 out, Time with tokens: 1.3024e+05 hrs 
+CCF3Thermo_CSAM2ON 71 in, 71 out, Time with tokens: 0 hrs 
+Thermo_CSAM2PF 2636 in, 2636 out, Time with tokens: 1.3024e+05 hrs 
+Thermo_CSAM3P1 1265 in, 1265 out, Time with tokens: 7.5433e+08 hrs 
+Thermo_CSAM3P0 1265 in, 1265 out, Time with tokens: 1.2509e+05 hrs 
+CCF3Thermo_CSAM3ON 71 in, 71 out, Time with tokens: 0 hrs 
+Thermo_CSAM3PF 2530 in, 2530 out, Time with tokens: 1.2509e+05 hrs 
+ASP_TC_CSAM1P1 2260 in, 2260 out, Time with tokens: 7.5441e+08 hrs 
+ASP_TC_CSAM1P0 2260 in, 2260 out, Time with tokens: 27064 hrs 
+ASP_TC_CSAM1P2 2260 in, 2260 out, Time with tokens: 9175 hrs 
+ASP_TC_CSAM1PF 4520 in, 4520 out, Time with tokens: 36239 hrs 
+ASP_TC_CSAM2P1 2358 in, 2358 out, Time with tokens: 7.5441e+08 hrs 
+ASP_TC_CSAM2P0 2358 in, 2358 out, Time with tokens: 28221 hrs 
+ASP_TC_CSAM2P2 2358 in, 2358 out, Time with tokens: 9473.4 hrs 
+CCF5ASP_TC_CSAM2ON 106 in, 106 out, Time with tokens: 0 hrs 
+ASP_TC_CSAM2PF 4715 in, 4715 out, Time with tokens: 37695 hrs 
+ASP_TC_CSAM3P1 2278 in, 2278 out, Time with tokens: 7.5441e+08 hrs 
+ASP_TC_CSAM3P0 2278 in, 2278 out, Time with tokens: 27611 hrs 
+ASP_TC_CSAM3P2 2278 in, 2278 out, Time with tokens: 9560.2 hrs 
+CCF5ASP_TC_CSAM3ON 106 in, 106 out, Time with tokens: 0 hrs 
+ASP_TC_CSAM3PF 4555 in, 4555 out, Time with tokens: 37171 hrs 
+Comparator_TC_CSAM1P1 145 in, 145 out, Time with tokens: 7.5445e+08 hrs 
+Comparator_TC_CSAM1P0 145 in, 145 out, Time with tokens: 1959.7 hrs 
+Comparator_TC_CSAM1P2 145 in, 145 out, Time with tokens: 586.48 hrs 
+Comparator_TC_CSAM1PF 290 in, 290 out, Time with tokens: 2546.2 hrs 
+Comparator_TC_CSAM2P1 183 in, 183 out, Time with tokens: 7.5445e+08 hrs 
+Comparator_TC_CSAM2P0 183 in, 183 out, Time with tokens: 1980.8 hrs 
+Comparator_TC_CSAM2P2 183 in, 183 out, Time with tokens: 786.01 hrs 
+CCF6Comparator_TC_CSAM2ON 6 in, 6 out, Time with tokens: 0 hrs 
+Comparator_TC_CSAM2PF 366 in, 366 out, Time with tokens: 2766.8 hrs 
+Comparator_TC_CSAM3P1 137 in, 137 out, Time with tokens: 7.5445e+08 hrs 
+Comparator_TC_CSAM3P0 137 in, 137 out, Time with tokens: 1745.4 hrs 
+Comparator_TC_CSAM3P2 137 in, 137 out, Time with tokens: 627.07 hrs 
+CCF6Comparator_TC_CSAM3ON 6 in, 6 out, Time with tokens: 0 hrs 
+Comparator_TC_CSAM3PF 274 in, 274 out, Time with tokens: 2372.5 hrs 
+PCSL_CSAM_RPS2_SDS2P1 76 in, 76 out, Time with tokens: 7.5445e+08 hrs 
+PCSL_CSAM_RPS2_SDS2P0 76 in, 76 out, Time with tokens: 157.32 hrs 
+PCSL_CSAM_RPS2_SDS2P2 76 in, 76 out, Time with tokens: 313.77 hrs 
+PCSL_CSAM_RPS2_SDS2PF 152 in, 152 out, Time with tokens: 471.09 hrs 
+SCRAM_SW_SDS2_1AP1 749 in, 749 out, Time with tokens: 7.5445e+08 hrs 
+SCRAM_SW_SDS2_1AP0 749 in, 749 out, Time with tokens: 18.228 hrs 
+SCRAM_SW_SDS2_1AP2 749 in, 749 out, Time with tokens: 3021.8 hrs 
+SCRAM_SW_SDS2_1APF 1498 in, 1498 out, Time with tokens: 3040 hrs 
+SCRAM_SW_SDS2_1BP1 779 in, 779 out, Time with tokens: 7.5445e+08 hrs 
+SCRAM_SW_SDS2_1BP0 779 in, 779 out, Time with tokens: 19.536 hrs 
+SCRAM_SW_SDS2_1BP2 779 in, 779 out, Time with tokens: 3140.2 hrs 
+CCF7SCRAM_SW_SDS2_1BON 8 in, 8 out, Time with tokens: 0 hrs 
+SCRAM_SW_SDS2_1BPF 1558 in, 1558 out, Time with tokens: 3159.7 hrs 
+DSR_1P1 9 in, 9 out, Time with tokens: 7.5443e+08 hrs 
+DSR_1P0 9 in, 9 out, Time with tokens: 21099 hrs 
+DSR_1P2 9 in, 9 out, Time with tokens: 225.95 hrs 
+DSR_1PF 18 in, 18 out, Time with tokens: 21325 hrs 
+SCRAM_SW_SDS2_2AP1 768 in, 768 out, Time with tokens: 7.5445e+08 hrs 
+SCRAM_SW_SDS2_2AP0 768 in, 768 out, Time with tokens: 19.365 hrs 
+SCRAM_SW_SDS2_2AP2 768 in, 768 out, Time with tokens: 2935.4 hrs 
+CCF7SCRAM_SW_SDS2_2AON 8 in, 8 out, Time with tokens: 0 hrs 
+SCRAM_SW_SDS2_2APF 1536 in, 1536 out, Time with tokens: 2954.8 hrs 
+SCRAM_SW_SDS2_2BP1 765 in, 765 out, Time with tokens: 7.5445e+08 hrs 
+SCRAM_SW_SDS2_2BP0 765 in, 765 out, Time with tokens: 19.278 hrs 
+SCRAM_SW_SDS2_2BP2 765 in, 765 out, Time with tokens: 2793 hrs 
+CCF7SCRAM_SW_SDS2_2BON 8 in, 8 out, Time with tokens: 0 hrs 
+SCRAM_SW_SDS2_2BPF 1530 in, 1530 out, Time with tokens: 2812.3 hrs 
+DSR_2P1 2 in, 2 out, Time with tokens: 7.5445e+08 hrs 
+DSR_2P0 2 in, 2 out, Time with tokens: 2070 hrs 
+DSR_2P2 2 in, 2 out, Time with tokens: 80.615 hrs 
+CCF9DSR_2ON 0 in, 0 out, Time with tokens: 0 hrs 
+CCF10DSR_2ON 0 in, 0 out, Time with tokens: 0 hrs 
+DSR_2PF 4 in, 4 out, Time with tokens: 2150.6 hrs 
+SCRAM_SW_SDS2_3AP1 761 in, 761 out, Time with tokens: 7.5445e+08 hrs 
+SCRAM_SW_SDS2_3AP0 761 in, 761 out, Time with tokens: 19.215 hrs 
+SCRAM_SW_SDS2_3AP2 761 in, 761 out, Time with tokens: 2913.4 hrs 
+CCF7SCRAM_SW_SDS2_3AON 8 in, 8 out, Time with tokens: 0 hrs 
+SCRAM_SW_SDS2_3APF 1522 in, 1522 out, Time with tokens: 2932.7 hrs 
+SCRAM_SW_SDS2_3BP1 754 in, 754 out, Time with tokens: 7.5445e+08 hrs 
+SCRAM_SW_SDS2_3BP0 754 in, 754 out, Time with tokens: 18.824 hrs 
+SCRAM_SW_SDS2_3BP2 754 in, 754 out, Time with tokens: 2757 hrs 
+CCF7SCRAM_SW_SDS2_3BON 8 in, 8 out, Time with tokens: 0 hrs 
+SCRAM_SW_SDS2_3BPF 1508 in, 1508 out, Time with tokens: 2775.9 hrs 
+DSR_3P1 5 in, 5 out, Time with tokens: 7.5444e+08 hrs 
+DSR_3P0 5 in, 5 out, Time with tokens: 12291 hrs 
+DSR_3P2 5 in, 5 out, Time with tokens: 103.62 hrs 
+CCF9DSR_3ON 0 in, 0 out, Time with tokens: 0 hrs 
+CCF10DSR_3ON 0 in, 0 out, Time with tokens: 0 hrs 
+DSR_3PF 10 in, 10 out, Time with tokens: 12395 hrs 
+Manual_TestP1 442 in, 442 out, Time with tokens: 7.5444e+08 hrs 
+Manual_TestP0 442 in, 442 out, Time with tokens: 5367.9 hrs 
+Manual_TestP2 442 in, 442 out, Time with tokens: 1703.8 hrs 
+Manual_TestPF 442 in, 442 out, Time with tokens: 7071.7 hrs 
+SDS2P1 0 in, 0 out, Time with tokens: 7.5445e+08 hrs 
+SDS2P0 0 in, 0 out, Time with tokens: 0 hrs 
+SDS2PF 0 in, 0 out, Time with tokens: 0 hrs 
+HLS1ID0 7086 in, 7085 out, Time with tokens: 1.499e+05 hrs 
+HLS1ID1 7716 in, 7716 out, Time with tokens: 1.7069e+05 hrs 
+HLS1ID2 7358 in, 7358 out, Time with tokens: 1.6464e+05 hrs 
+GCount1I0 11452 in, 11451 out, Time with tokens: 4.7407e+05 hrs 
+SP1I0i0 3543 in, 3542 out, Time with tokens: 1.499e+05 hrs 
+SP1I0i1 3858 in, 3858 out, Time with tokens: 1.7069e+05 hrs 
+SP1I0i2 3679 in, 3679 out, Time with tokens: 1.6464e+05 hrs 
+knSYSGCount1I0 372 in, 372 out, Time with tokens: 13323 hrs 
+PCc1I0 524 in, 524 out, Time with tokens: 13794 hrs 
+GCount1I1 1544 in, 1544 out, Time with tokens: 6182.7 hrs 
+SP1I1i0 749 in, 749 out, Time with tokens: 3040 hrs 
+SP1I1i1 779 in, 779 out, Time with tokens: 3159.7 hrs 
+knSYSGCount1I1 16 in, 16 out, Time with tokens: 32.529 hrs 
+PCc1I1 34 in, 34 out, Time with tokens: 21357 hrs 
+GCount1I2 1549 in, 1549 out, Time with tokens: 5760.6 hrs 
+SP1I2i0 768 in, 768 out, Time with tokens: 2954.8 hrs 
+SP1I2i1 765 in, 765 out, Time with tokens: 2812.3 hrs 
+knSYSGCount1I2 16 in, 16 out, Time with tokens: 43.095 hrs 
+PCc1I2 20 in, 20 out, Time with tokens: 2193.7 hrs 
+GCount1I3 1531 in, 1531 out, Time with tokens: 5700.7 hrs 
+SP1I3i0 761 in, 761 out, Time with tokens: 2932.7 hrs 
+SP1I3i1 754 in, 754 out, Time with tokens: 2775.9 hrs 
+knSYSGCount1I3 16 in, 16 out, Time with tokens: 68.191 hrs 
+PCc1I3 26 in, 26 out, Time with tokens: 12463 hrs 
+GCount1I4 56 in, 56 out, Time with tokens: 35957 hrs 
+SP1I4i0 17 in, 17 out, Time with tokens: 21357 hrs 
+SP1I4i1 10 in, 10 out, Time with tokens: 2193.7 hrs 
+SP1I4i2 13 in, 13 out, Time with tokens: 12463 hrs 
+knSYSGCount1I4 16 in, 16 out, Time with tokens: 86.416 hrs 
+PCc1I4 16 in, 16 out, Time with tokens: 86.416 hrs 
+HLS2ID0 270 in, 270 out, Time with tokens: 13880 hrs 
+
+Transitions:
+TCCF3Thermo_CSAM110 fired 71 Times
+TThermo_CSAM110 fired 1067 Times
+TThermo_CSAM101 fired 1137 Times
+RESETCCF3Thermo_CSAM210 fired 71 Times
+RESETCCF3Thermo_CSAM200 fired 0 Times
+TThermo_CSAM210 fired 1247 Times
+TThermo_CSAM201 fired 1318 Times
+RESETCCF3Thermo_CSAM310 fired 71 Times
+RESETCCF3Thermo_CSAM300 fired 0 Times
+TThermo_CSAM310 fired 1194 Times
+TThermo_CSAM301 fired 1265 Times
+TCCF5ASP_TC_CSAM110 fired 106 Times
+TASP_TC_CSAM110 fired 2154 Times
+TASP_TC_CSAM102 fired 2260 Times
+TASP_TC_CSAM121 fired 2260 Times
+RESETCCF5ASP_TC_CSAM210 fired 106 Times
+RESETCCF5ASP_TC_CSAM200 fired 0 Times
+RESETCCF5ASP_TC_CSAM220 fired 0 Times
+TASP_TC_CSAM210 fired 2252 Times
+TASP_TC_CSAM202 fired 2358 Times
+TASP_TC_CSAM221 fired 2358 Times
+RESETCCF5ASP_TC_CSAM310 fired 106 Times
+RESETCCF5ASP_TC_CSAM300 fired 0 Times
+RESETCCF5ASP_TC_CSAM320 fired 0 Times
+TASP_TC_CSAM310 fired 2172 Times
+TASP_TC_CSAM302 fired 2278 Times
+TASP_TC_CSAM321 fired 2278 Times
+TCCF6Comparator_TC_CSAM110 fired 6 Times
+TComparator_TC_CSAM110 fired 139 Times
+TComparator_TC_CSAM102 fired 145 Times
+TComparator_TC_CSAM121 fired 145 Times
+RESETCCF6Comparator_TC_CSAM210 fired 6 Times
+RESETCCF6Comparator_TC_CSAM200 fired 0 Times
+RESETCCF6Comparator_TC_CSAM220 fired 0 Times
+TComparator_TC_CSAM210 fired 177 Times
+TComparator_TC_CSAM202 fired 183 Times
+TComparator_TC_CSAM221 fired 183 Times
+RESETCCF6Comparator_TC_CSAM310 fired 6 Times
+RESETCCF6Comparator_TC_CSAM300 fired 0 Times
+RESETCCF6Comparator_TC_CSAM320 fired 0 Times
+TComparator_TC_CSAM310 fired 131 Times
+TComparator_TC_CSAM302 fired 137 Times
+TComparator_TC_CSAM321 fired 137 Times
+TPCSL_CSAM_RPS2_SDS210 fired 76 Times
+TPCSL_CSAM_RPS2_SDS202 fired 76 Times
+TPCSL_CSAM_RPS2_SDS221 fired 76 Times
+TCCF7SCRAM_SW_SDS2_1A10 fired 8 Times
+TSCRAM_SW_SDS2_1A10 fired 741 Times
+TSCRAM_SW_SDS2_1A02 fired 749 Times
+TSCRAM_SW_SDS2_1A21 fired 749 Times
+RESETCCF7SCRAM_SW_SDS2_1B10 fired 8 Times
+RESETCCF7SCRAM_SW_SDS2_1B00 fired 0 Times
+RESETCCF7SCRAM_SW_SDS2_1B20 fired 0 Times
+TSCRAM_SW_SDS2_1B10 fired 771 Times
+TSCRAM_SW_SDS2_1B02 fired 779 Times
+TSCRAM_SW_SDS2_1B21 fired 779 Times
+TCCF9DSR_110 fired 0 Times
+TCCF10DSR_110 fired 0 Times
+TDSR_110 fired 9 Times
+TDSR_102 fired 9 Times
+TDSR_121 fired 9 Times
+RESETCCF7SCRAM_SW_SDS2_2A10 fired 8 Times
+RESETCCF7SCRAM_SW_SDS2_2A00 fired 0 Times
+RESETCCF7SCRAM_SW_SDS2_2A20 fired 0 Times
+TSCRAM_SW_SDS2_2A10 fired 760 Times
+TSCRAM_SW_SDS2_2A02 fired 768 Times
+TSCRAM_SW_SDS2_2A21 fired 768 Times
+RESETCCF7SCRAM_SW_SDS2_2B10 fired 8 Times
+RESETCCF7SCRAM_SW_SDS2_2B00 fired 0 Times
+RESETCCF7SCRAM_SW_SDS2_2B20 fired 0 Times
+TSCRAM_SW_SDS2_2B10 fired 757 Times
+TSCRAM_SW_SDS2_2B02 fired 765 Times
+TSCRAM_SW_SDS2_2B21 fired 765 Times
+RESETCCF9DSR_210 fired 0 Times
+RESETCCF9DSR_200 fired 0 Times
+RESETCCF9DSR_220 fired 0 Times
+RESETCCF10DSR_210 fired 0 Times
+RESETCCF10DSR_200 fired 0 Times
+RESETCCF10DSR_220 fired 0 Times
+TDSR_210 fired 2 Times
+TDSR_202 fired 2 Times
+TDSR_221 fired 2 Times
+RESETCCF7SCRAM_SW_SDS2_3A10 fired 8 Times
+RESETCCF7SCRAM_SW_SDS2_3A00 fired 0 Times
+RESETCCF7SCRAM_SW_SDS2_3A20 fired 0 Times
+TSCRAM_SW_SDS2_3A10 fired 753 Times
+TSCRAM_SW_SDS2_3A02 fired 761 Times
+TSCRAM_SW_SDS2_3A21 fired 761 Times
+RESETCCF7SCRAM_SW_SDS2_3B10 fired 8 Times
+RESETCCF7SCRAM_SW_SDS2_3B00 fired 0 Times
+RESETCCF7SCRAM_SW_SDS2_3B20 fired 0 Times
+TSCRAM_SW_SDS2_3B10 fired 746 Times
+TSCRAM_SW_SDS2_3B02 fired 754 Times
+TSCRAM_SW_SDS2_3B21 fired 754 Times
+RESETCCF9DSR_310 fired 0 Times
+RESETCCF9DSR_300 fired 0 Times
+RESETCCF9DSR_320 fired 0 Times
+RESETCCF10DSR_310 fired 0 Times
+RESETCCF10DSR_300 fired 0 Times
+RESETCCF10DSR_320 fired 0 Times
+TDSR_310 fired 5 Times
+TDSR_302 fired 5 Times
+TDSR_321 fired 5 Times
+TManual_Test10 fired 442 Times
+TManual_Test02 fired 442 Times
+TManual_Test21 fired 442 Times
+TSDS210 fired 0 Times
+TSDS201 fired 0 Times
+THL1I0i0 fired 1138 Times
+THL1I0i1 fired 2260 Times
+THL1I0i2 fired 145 Times
+TRHL1I0i2 fired 3542 Times
+THL1I1i0 fired 1318 Times
+THL1I1i1 fired 2357 Times
+THL1I1i2 fired 183 Times
+TRHL1I1i2 fired 3858 Times
+THL1I2i0 fired 1265 Times
+THL1I2i1 fired 2277 Times
+THL1I2i2 fired 137 Times
+TRHL1I2i2 fired 3679 Times
+GCount1I0UPHLS1ID0 fired 3543 Times
+GCount1I0DOWNHLS1ID0 fired 3542 Times
+GCount1I0UPHLS1ID1 fired 3858 Times
+GCount1I0DOWNHLS1ID1 fired 3858 Times
+GCount1I0UPHLS1ID2 fired 3679 Times
+GCount1I0DOWNHLS1ID2 fired 3679 Times
+TknUPknSYSGCount1I0 fired 186 Times
+TknDNknSYSGCount1I0 fired 186 Times
+TsysUP1PCc1I0 fired 76 Times
+TsysUP2PCc1I0 fired 186 Times
+TsysDOWN2PCc1I0 fired 262 Times
+GCount1I1UPSCRAM_SW_SDS2_1APF fired 749 Times
+GCount1I1DOWNSCRAM_SW_SDS2_1APF fired 749 Times
+GCount1I1UPSCRAM_SW_SDS2_1BPF fired 779 Times
+GCount1I1DOWNSCRAM_SW_SDS2_1BPF fired 779 Times
+TknUPknSYSGCount1I1 fired 8 Times
+TknDNknSYSGCount1I1 fired 8 Times
+TsysUP1PCc1I1 fired 9 Times
+TsysUP2PCc1I1 fired 8 Times
+TsysDOWN2PCc1I1 fired 17 Times
+GCount1I2UPSCRAM_SW_SDS2_2APF fired 768 Times
+GCount1I2DOWNSCRAM_SW_SDS2_2APF fired 768 Times
+GCount1I2UPSCRAM_SW_SDS2_2BPF fired 765 Times
+GCount1I2DOWNSCRAM_SW_SDS2_2BPF fired 765 Times
+TknUPknSYSGCount1I2 fired 8 Times
+TknDNknSYSGCount1I2 fired 8 Times
+TsysUP1PCc1I2 fired 2 Times
+TsysUP2PCc1I2 fired 8 Times
+TsysDOWN2PCc1I2 fired 10 Times
+GCount1I3UPSCRAM_SW_SDS2_3APF fired 761 Times
+GCount1I3DOWNSCRAM_SW_SDS2_3APF fired 761 Times
+GCount1I3UPSCRAM_SW_SDS2_3BPF fired 754 Times
+GCount1I3DOWNSCRAM_SW_SDS2_3BPF fired 754 Times
+TknUPknSYSGCount1I3 fired 8 Times
+TknDNknSYSGCount1I3 fired 8 Times
+TsysUP1PCc1I3 fired 5 Times
+TsysUP2PCc1I3 fired 8 Times
+TsysDOWN2PCc1I3 fired 13 Times
+GCount1I4UPPCc1I1 fired 17 Times
+GCount1I4DOWNPCc1I1 fired 17 Times
+GCount1I4UPPCc1I2 fired 10 Times
+GCount1I4DOWNPCc1I2 fired 10 Times
+GCount1I4UPPCc1I3 fired 13 Times
+GCount1I4DOWNPCc1I3 fired 13 Times
+TknUPknSYSGCount1I4 fired 8 Times
+TknDNknSYSGCount1I4 fired 8 Times
+TsysUP1PCc1I4 fired 0 Times
+TsysUP2PCc1I4 fired 8 Times
+TsysDOWN2PCc1I4 fired 8 Times
+THL2I0i0 fired 262 Times
+THL2I0i1 fired 8 Times
+TRHL2I0i1 fired 270 Times

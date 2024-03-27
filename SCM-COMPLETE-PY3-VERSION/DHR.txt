@@ -1,0 +1,2 @@
+[['PowerSupply','AutoControl','Human_Action','Valve1', 'Valve2', 'HX1', 'HX2', 'Fuel'],{'PowerSupply':{'Hardware':1,'Failure Rate':0.0002, 'Rel_Model':3,'Repair Rate':0.001, 'Law':2,'Power':1}, 'AutoControl'={}, 'Human_Action'={}, 'Valve1'={}, 'Valve2' = {}, 'HX1'={}, 'HX2' = {}, 'Fuel'={} },connector_table_list = {['Connector_DHR_Model']},}
+

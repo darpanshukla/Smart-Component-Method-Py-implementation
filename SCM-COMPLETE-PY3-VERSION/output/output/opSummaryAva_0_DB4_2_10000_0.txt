@@ -1,0 +1,21 @@
+
+	#----------------------------------------------------#
+	Unavailability           	=	2.4636e-01
+	Histories (Batches)      	=	10000 (2)
+	Variance                 	=	2.3485e-07
+	Fractional Error(Unava)  	=	1.9670e-03
+	Rt(N)*Fractional Error   	=	1.9670e-01
+	Figure of Merit          	=	1.3859e+09
+	Average time per history 	=	3.0724e-03
+	#----------------------------------------------------#
+	
+	#----------------------------------------------------#
+	Unavailability           	=	2.4689e-01
+	Histories (Batches)      	=	10000 (2)
+	Variance                 	=	2.7471e-07
+	Fractional Error(Unava)  	=	2.1230e-03
+	Rt(N)*Fractional Error   	=	2.1230e-01
+	Figure of Merit          	=	1.2534e+09
+	Average time per history 	=	2.9042e-03
+	#----------------------------------------------------#
+	
